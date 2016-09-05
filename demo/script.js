@@ -8,3 +8,6 @@ function myfunction(){
     }
     document.getElementById('demo').innerHTML = x;
 }
+
+var d = Date();
+document.write(d.getDate())
